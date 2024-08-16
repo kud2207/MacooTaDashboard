@@ -1,0 +1,18 @@
+.bar{
+    height: 25px;
+    width: 400px;
+    background-color: white;
+    border-radius: 5px;
+    border: solid 0.1px rgb(230, 227, 227);
+    margin: 10px;
+}
+.progress{
+    background: linear-gradient(12deg,rgb(222, 216, 216),rgb(223, 223, 238));
+    border-radius: 5px;
+    height: 25px;
+}
+.firebase{
+    width: 500px;
+    height: 100px;
+    background-color: brown;
+}
